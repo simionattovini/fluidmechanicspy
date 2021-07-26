@@ -9,6 +9,10 @@ from kivymd.uix.button import MDRaisedButton
 from kivymd.uix.label import MDLabel
 from kivymd.uix.textfield import MDTextField
 
+"""
+This file creates a user interface using kivymd just to test the capabilities of the FluidMechanicsModule. It is not intended to be a part of any application.
+It is just some code for testing :)
+"""
 
 def moody_data_re():
     Re_lam = np.linspace(500, 5000, 10)
